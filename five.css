@@ -1,0 +1,46 @@
+p {
+    text-align: right;
+}
+
+.one {
+    background-color: #1578eb;
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+}
+
+.two {
+    float: left;
+    width: 200px;
+    height: 500px;
+    background-color: #3d30ef;
+}
+
+.float-right {
+    float: right;
+    width: 200px;
+    height: 500px;
+    background-color: #3d30ef;
+}
+
+.top {
+    background-color: #d91212;
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+}
+
+.top2,
+.bottom {
+    width: 1200px;
+    height: 50px;
+    margin: auto;
+}
+
+.top2 {
+    background-color: #d4ce0d;
+}
+
+.bottom {
+    background-color: #44dc0d;
+}
